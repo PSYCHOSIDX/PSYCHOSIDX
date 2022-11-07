@@ -1,4 +1,3 @@
-# Hi there 👋
 
 ![Header](https://user-images.githubusercontent.com/63893110/200407896-9899b10f-2eae-4508-9654-24fdcf548361.png)
 
