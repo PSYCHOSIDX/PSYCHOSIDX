@@ -2,7 +2,7 @@
 
 ![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits)
 
 #### Programming Languages :
 <p align="">
