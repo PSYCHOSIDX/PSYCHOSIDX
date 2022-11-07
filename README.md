@@ -8,7 +8,7 @@
   </a>
 </p>
 
-##### | Technologies | Frameworks | Databases | Tools |:
+##### Technologies | Frameworks | Databases | Tools 
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,git,github,express,gcp,html,nodejs,netlify,nginx,nextjs,redux,sass,tailwind,bootstrap,css,materialui" />
