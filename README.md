@@ -14,18 +14,8 @@
 #####  Technologies    |   Frameworks   |   Databases   |   Tools 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,github,express,gcp,html,nodejs,netlify,nginx,nextjs,redux,sass,tailwind,bootstrap,css,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,git,github,express,gcp,html,nodejs,netlify,nginx,nextjs,redux,sass,tailwind,bootstrap,css,materialui,firebase,sqlite,mysql,mongodb,postgres,supabase,vscode,github,selenium,eclipse,visualstudio,powershell,figma,stackoverflow" />
   </a>
 </p>
 
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb,postgres,supabase" />
-  </a>
-</p>
 
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,selenium,eclipse,visualstudio,powershell,figma,stackoverflow" />
-  </a>
-</p>
