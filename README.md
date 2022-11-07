@@ -1,6 +1,5 @@
 
-![Header](https://user-images.githubusercontent.com/63893110/200407896-9899b10f-2eae-4508-9654-24fdcf548361.png)
-
+![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
 
 #### Programming Languages :
 <p align="">
