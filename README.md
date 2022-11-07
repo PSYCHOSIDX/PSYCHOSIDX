@@ -19,7 +19,7 @@
 #### Databases :
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb,postgress,supabase" />
+    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb,postgres,supabase" />
   </a>
 </p>
 
