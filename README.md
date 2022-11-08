@@ -2,9 +2,9 @@
 
 ![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
 
-<p href="https://www.linkedin.com/in/siddheshkamath" >
+
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=nautilus)
-</p>
+
 
 #### Programming Languages :
 <p align="">
