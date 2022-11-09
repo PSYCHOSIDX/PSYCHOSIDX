@@ -8,7 +8,7 @@
 
 
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)
+</tr>![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)
 
 
 
