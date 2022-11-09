@@ -5,7 +5,7 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)](https://github.com/LordDashMe/github-contribution-stats/)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)
 
 
 
