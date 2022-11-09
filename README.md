@@ -2,9 +2,12 @@
 
 ![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
 
-<p align="center">
+<a align="center">
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
-</p>
+</a>
+
+
+
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)
 
 
