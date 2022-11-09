@@ -6,15 +6,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
 
 
-
-<tr></tr> <tr></tr> <tr></tr> <tr></tr> <tr></tr>
-
-
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)
-
-
-
-
 
 # Programming Languages 
 <p align="">
