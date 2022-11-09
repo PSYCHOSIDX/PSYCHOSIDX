@@ -20,4 +20,4 @@
   </a>
 </p>
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PSYCHOSIDX)](https://github.com/LordDashMe/github-contribution-stats/)
