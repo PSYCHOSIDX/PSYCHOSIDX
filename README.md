@@ -2,9 +2,9 @@
 
 ![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
 
-<img align="center">
+<h5 align="center">
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
-</img>
+</h5>
 
 
 
