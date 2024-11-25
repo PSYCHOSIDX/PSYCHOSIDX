@@ -1,7 +1,6 @@
-![Header](https://github.com/user-attachments/assets/10cb1e31-492b-421b-b0df-8495970351f6)
+![Header](https://github.com/user-attachments/assets/5d5d1761-2121-462e-b213-23ddbad92df1)
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
-
 
 # Programming Languages 
 <p align="">
