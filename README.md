@@ -1,7 +1,4 @@
-
-
-![Header](https://user-images.githubusercontent.com/63893110/200409903-2ec0df58-5132-45d6-a4eb-6de7ad30f593.png)
-
+![Header](https://github.com/user-attachments/assets/10cb1e31-492b-421b-b0df-8495970351f6)
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSYCHOSIDX&data=followers,repositories,stars,commits&theme=darkmode)
 
